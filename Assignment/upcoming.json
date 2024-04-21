@@ -1,0 +1,354 @@
+[
+      {
+        "eventName": "Winter Wonderland Fair",
+        "cityName": "West Douglas",
+        "date": "2024-03-24T00:00:00.000Z",
+        "weather": "Snowy 26C",
+        "distanceKm": "4264.1226847222415",
+        "imgUrl": "./assets/U1.svg"
+      },
+      {
+        "eventName": "Spring Clouds Art Exhibit",
+        "cityName": "North Amy",
+        "date": "2024-03-25T00:00:00.000Z",
+        "weather": "Cloudy 7C",
+        "distanceKm": "3864.065400248832",
+        "imgUrl": "./assets/U2.svg"
+      },
+      {
+        "eventName": "Snowy Peaks Photography",
+        "cityName": "Rayville",
+        "date": "2024-03-26T00:00:00.000Z",
+        "weather": "Snowy 18C",
+        "distanceKm": "14188.240054906337",
+        "imgUrl": "./assets/U3.svg"
+      },
+      {
+        "eventName": "Sunny Days Marathon",
+        "cityName": "Hartville",
+        "date": "2024-03-27T00:00:00.000Z",
+        "weather": "Sunny 2C",
+        "distanceKm": "9022.823129623723",
+        "imgUrl": "./assets/U4.svg"
+      },
+      {
+        "eventName": "Tropical Tunes Music Festival",
+        "cityName": "South Andrew",
+        "date": "2024-03-27T00:00:00.000Z",
+        "weather": "Cloudy 30C",
+        "distanceKm": "14311.615540703924",
+        "imgUrl": "./assets/U5.svg"
+      },
+      {
+        "eventName": "Frozen Harmony Concert",
+        "cityName": "Port Markton",
+        "date": "2024-03-27T00:00:00.000Z",
+        "weather": "Sunny -3C",
+        "distanceKm": "12476.33705344043",
+        "imgUrl": "./assets/U6.svg"
+      },
+      {
+        "eventName": "Cloudy Skies Book Fair",
+        "cityName": "Lake Matthew",
+        "date": "2024-03-27T00:00:00.000Z",
+        "weather": "Cloudy 14C",
+        "distanceKm": "6515.755364660444",
+        "imgUrl": "./assets/U7.svg"
+      },
+      {
+        "eventName": "Sunlit Path Charity Run",
+        "cityName": "West Erika",
+        "date": "2024-03-27T00:00:00.000Z",
+        "weather": "Sunny -4C",
+        "distanceKm": "4544.261026003867",
+        "imgUrl": "./assets/U8.svg"
+      },
+      {
+        "eventName": "Winter Bliss Ice Sculpture Contest",
+        "cityName": "Terrenceberg",
+        "date": "2024-03-27T00:00:00.000Z",
+        "weather": "Snowy 25C",
+        "distanceKm": "6350.197144394632",
+        "imgUrl": "./assets/U9.svg"
+      },
+      {
+        "eventName": "Winter Baking Contest",
+        "cityName": "Terrenceberg",
+        "date": "2024-03-27T00:00:00.000Z",
+        "weather": "Snowy 22C",
+        "distanceKm": "63",
+        "imgUrl": "./assets/U10.svg"
+      },
+      {
+        "eventName": "Tech Innovators Conference",
+        "cityName": "West Alexisstad",
+        "date": "2024-03-27T00:00:00.000Z",
+        "weather": "Sunny 32C",
+        "distanceKm": "6936.076444521937",
+        "imgUrl": "./assets/U11.svg"
+      },
+      {
+        "eventName": "Live Podcast: Voices of Today",
+        "cityName": "Ryanstad",
+        "date": "2024-03-28T00:00:00.000Z",
+        "weather": "Cloudy 15C",
+        "distanceKm": "10535.304422355775",
+        "imgUrl": "./assets/U12.svg"
+      },
+      {
+        "eventName": "Rapid Coding Hackathon",
+        "cityName": "Elizabethberg",
+        "date": "2024-03-29T00:00:00.000Z",
+        "weather": "Rainy 13C",
+        "distanceKm": "14383.43229714746",
+        "imgUrl": "./assets/U13.svg"
+      },
+      {
+        "eventName": "Winter Sports Expo",
+        "cityName": "Mcclainburgh",
+        "date": "2024-03-29T00:00:00.000Z",
+        "weather": "Snowy 22C",
+        "distanceKm": "7391.988226031083",
+        "imgUrl": "./assets/U14.svg"
+      },
+      {
+        "eventName": "Meditation Retreat",
+        "cityName": "East Julieport",
+        "date": "2024-03-29T00:00:00.000Z",
+        "weather": "Cloudy 27C",
+        "distanceKm": "13803.22072758375",
+        "imgUrl": "./assets/U15.svg"
+      },
+      {
+        "eventName": "Film Director's Workshop",
+        "cityName": "North Kylemouth",
+        "date": "2024-03-29T00:00:00.000Z",
+        "weather": "Cloudy 15C",
+        "distanceKm": "4098.921739281934",
+        "imgUrl": "./assets/U16.svg"
+      },
+      {
+        "eventName": "Melodies Under The Stars",
+        "cityName": "Andersonborough",
+        "date": "2024-03-29T00:00:00.000Z",
+        "weather": "Sunny 15C",
+        "distanceKm": "17174.753089103386",
+        "imgUrl": "./assets/U17.svg"
+      },
+      {
+        "eventName": "Southern Literature Festival",
+        "cityName": "Thompsonborough",
+        "date": "2024-03-30T00:00:00.000Z",
+        "weather": "Rainy 13C",
+        "distanceKm": "13518.952293087284",
+        "imgUrl": "./assets/U18.svg"
+      },
+      {
+        "eventName": "Entrepreneurial Insights Series",
+        "cityName": "South Michaelton",
+        "date": "2024-03-30T00:00:00.000Z",
+        "weather": "Sunny 2C",
+        "distanceKm": "6114.571815661185",
+        "imgUrl": "./assets/U19.svg"
+      },
+      {
+        "eventName": "Entrepreneurial Series 2",
+        "cityName": "South Madison",
+        "date": "2024-03-30T00:00:00.000Z",
+        "weather": "Sunny 3C",
+        "distanceKm": "611",
+        "imgUrl": "./assets/U20.svg"
+      },
+      {
+        "eventName": "Rainy Day Book Fair",
+        "cityName": "Mathismouth",
+        "date": "2024-03-31T00:00:00.000Z",
+        "weather": "Rainy 7C",
+        "distanceKm": "6759.173892260938",
+        "imgUrl": "./assets/U1.svg"
+      },
+      {
+        "eventName": "Frosty Thoughts Poetry Night",
+        "cityName": "West Mary",
+        "date": "2024-03-31T00:00:00.000Z",
+        "weather": "Cloudy -5C",
+        "distanceKm": "11391.692510997877",
+        "imgUrl": "./assets/U2.svg"
+      },
+      {
+        "eventName": "Mystery and Crime Book Club",
+        "cityName": "Alexanderbury",
+        "date": "2024-03-31T00:00:00.000Z",
+        "weather": "Windy 35C",
+        "distanceKm": "15060.265760437802",
+        "imgUrl": "./assets/U3.svg"
+      },
+      {
+        "eventName": "Rock and Rain Music Festival",
+        "cityName": "Kyleport",
+        "date": "2024-03-31T00:00:00.000Z",
+        "weather": "Rainy 9C",
+        "distanceKm": "15123.435520517853",
+        "imgUrl": "./assets/U4.svg"
+      },
+      {
+        "eventName": "Gourmet Evening in the Rain",
+        "cityName": "Port Richard",
+        "date": "2024-04-01T00:00:00.000Z",
+        "weather": "Rainy 14C",
+        "distanceKm": "12539.459704310591",
+        "imgUrl": "./assets/U5.svg"
+      },
+      {
+        "eventName": "Windy Day Art Exhibit",
+        "cityName": "Robertstad",
+        "date": "2024-04-01T00:00:00.000Z",
+        "weather": "Windy 13C",
+        "distanceKm": "12588.058766919947",
+        "imgUrl": "./assets/U16.svg"
+      },
+      {
+        "eventName": "Rhythms in the Rain: Radio Hits Live",
+        "cityName": "West Darrenfurt",
+        "date": "2024-04-01T00:00:00.000Z",
+        "weather": "Rainy 16C",
+        "distanceKm": "15868.878095686481",
+        "imgUrl": "./assets/U17.svg"
+      },
+      {
+        "eventName": "Legal Legends: A Theatrical Dream",
+        "cityName": "Claireville",
+        "date": "2024-04-01T00:00:00.000Z",
+        "weather": "Cloudy 33C",
+        "distanceKm": "5325.329557638306",
+        "imgUrl": "./assets/U18.svg"
+      },
+      {
+        "eventName": "Winter Academic Summit",
+        "cityName": "Jeffreyville",
+        "date": "2024-04-01T00:00:00.000Z",
+        "weather": "Snowy 14C",
+        "distanceKm": "7991.890351772611",
+        "imgUrl": "./assets/U19.svg"
+      },
+      {
+        "eventName": "Winter Academic Summit 2",
+        "cityName": "Gainesville",
+        "date": "2024-04-01T00:00:00.000Z",
+        "weather": "Snowy 20C",
+        "distanceKm": "79",
+        "imgUrl": "./assets/U20.svg"
+      },
+      {
+        "eventName": "Autumn Rain Poetry Slam",
+        "cityName": "Gregorymouth",
+        "date": "2024-04-02T00:00:00.000Z",
+        "weather": "Rainy 4C",
+        "distanceKm": "6617.129981062603",
+        "imgUrl": "./assets/U6.svg"
+      },
+      {
+        "eventName": "Summer Book Festival",
+        "cityName": "Summerschester",
+        "date": "2024-04-02T00:00:00.000Z",
+        "weather": "Sunny 13C",
+        "distanceKm": "7349.056529212609",
+        "imgUrl": "./assets/U7.svg"
+      },
+      {
+        "eventName": "National Art Showcase",
+        "cityName": "Robertchester",
+        "date": "2024-04-03T00:00:00.000Z",
+        "weather": "Sunny 8C",
+        "distanceKm": "15744.643911629559",
+        "imgUrl": "./assets/U8.svg"
+      },
+      {
+        "eventName": "Sustainable Resources Expo",
+        "cityName": "Kristenchester",
+        "date": "2024-04-03T00:00:00.000Z",
+        "weather": "Rainy 18C",
+        "distanceKm": "13880.296604879019",
+        "imgUrl": "./assets/U9.svg"
+      },
+      {
+        "eventName": "Leadership & Career Summit",
+        "cityName": "East Brandonville",
+        "date": "2024-04-04T00:00:00.000Z",
+        "weather": "Sunny 2C",
+        "distanceKm": "2485.4762520253466",
+        "imgUrl": "./assets/U10.svg"
+      },
+      {
+        "eventName": "Visionary Ideas Conference",
+        "cityName": "Brendabury",
+        "date": "2024-04-04T00:00:00.000Z",
+        "weather": "Sunny -2C",
+        "distanceKm": "6963.499151926273",
+        "imgUrl": "./assets/U11.svg"
+      },
+      {
+        "eventName": "Innovative Minds Journal Launch",
+        "cityName": "Lake Katherine",
+        "date": "2024-04-05T00:00:00.000Z",
+        "weather": "Snowy 25C",
+        "distanceKm": "14306.301945975278",
+        "imgUrl": "./assets/U12.svg"
+      },
+      {
+        "eventName": "Next-Gen Tech Symposium",
+        "cityName": "Murphymouth",
+        "date": "2024-04-05T00:00:00.000Z",
+        "weather": "Windy 7C",
+        "distanceKm": "4326.080367961602",
+        "imgUrl": "./assets/U13.svg"
+      },
+      {
+        "eventName": "Resilient Teams Workshop",
+        "cityName": "Ewingtown",
+        "date": "2024-04-05T00:00:00.000Z",
+        "weather": "Cloudy 31C",
+        "distanceKm": "12043.653539503477",
+        "imgUrl": "./assets/U14.svg"
+      },
+      {
+        "eventName": "Resilient Teams Workshop 2",
+        "cityName": "New York",
+        "date": "2024-04-05T00:00:00.000Z",
+        "weather": "Cloudy 20C",
+        "distanceKm": "120",
+        "imgUrl": "./assets/U15.svg"
+      },
+      {
+        "eventName": "Leadership Summit 2024",
+        "cityName": "South Bryanland",
+        "date": "2024-04-06T00:00:00.000Z",
+        "weather": "Sunny 28C",
+        "distanceKm": "13111.969264618872",
+        "imgUrl": "./assets/U19.svg"
+      },
+      {
+        "eventName": "Innovation in Technology Conference",
+        "cityName": "New Joyce",
+        "date": "2024-04-06T00:00:00.000Z",
+        "weather": "Sunny 14C",
+        "distanceKm": "9462.982621652809",
+        "imgUrl": "./assets/U12.svg"
+      },
+      {
+        "eventName": "Media Dynamics Forum",
+        "cityName": "Lake Johnbury",
+        "date": "2024-04-06T00:00:00.000Z",
+        "weather": "Windy 27C",
+        "distanceKm": "9419.273401747081",
+        "imgUrl": "./assets/U1.svg"
+      },
+      {
+        "eventName": "Media Dynamics Forum 2",
+        "cityName": "Lake Louis",
+        "date": "2024-04-06T00:00:00.000Z",
+        "weather": "Windy 30C",
+        "distanceKm": "94",
+        "imgUrl": "./assets/U4.svg"
+      }
+]
