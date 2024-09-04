@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register Page</title>
+
+    <link rel="stylesheet" href="css/form.css">
+
+    <style>
+        .form input{
+            width: 500px;
+        }
+
+        .submit-btn{
+            position: relative;
+            right: -50px;
+        }
+    </style>
+
+</head>
+<body>
+
+    <form id="loginForm">
+    <div class="form">
+        <h1 class="heading">Book your Ticket</h1>
+        <p>Name Of The Show</p>
+        <input type="text" placeholder="name" id="email" autocomplete="off" class="name" required>
+        <span class="error-message" id="usernameError"></span>
+        <p>Your E-mail Address</p>
+        <input type="email" placeholder="email" id="email" autocomplete="off" class="email" required>
+        <span class="error-message" id="usernameError"></span>
+        <p>Booking Date</p>
+        <input type="date" id="password" placeholder="password" autocomplete="off" class="password" required>
+        <span class="error-message" id="passwordError"></span>
+        <button class="submit-btn" type="submit">Register</button>
+    </div>
+    </form>
+
+    <script src="/public/js/form2.js"></script>
+    
+</body>
+</html>
